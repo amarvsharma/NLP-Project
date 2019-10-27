@@ -1,9 +1,9 @@
 import dialogflow_v2 as dialogflow
 import os
 from google.protobuf.json_format import MessageToDict
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "F:\codingbatjson.json"
-project_id = "codingbat-eaukof"
-session_id = 12345
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = ****
+project_id = *****
+session_id = *****
 language_code = "en"
 session_client = dialogflow.SessionsClient()
 session = session_client.session_path(project_id, session_id)
