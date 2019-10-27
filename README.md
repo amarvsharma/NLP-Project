@@ -2,6 +2,7 @@
 NLP Research Project with UCI Professor Ian Harris
 
 *attached is a python file 'list1'*
+
 *this is only a snippet of the code for demonstration purposes*
 
 
