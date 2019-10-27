@@ -1,7 +1,9 @@
 # NLP-Project
 NLP Research Project with UCI Professor Ian Harris
-*attacked is a python file 'list1'*
+
+*attached is a python file 'list1'*
 *this is only a snippet of the code for demonstration purposes*
+
 
  - Utilized Google's Natural Language Processing (NLP) service, DialogFlow, to automate writing Python function declarations
  - Configured DialogFlow to detect Intents and Entities (aka keywords) in coding challenges (codingbat.com)
